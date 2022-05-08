@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "nodemon": "^2.0.16"
+  },
+  "name": "axios-crash",
+  "description": "> These are the files for the YouTube Axios crash course.",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kawaharm/axios-crash.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kawaharm/axios-crash/issues"
+  },
+  "homepage": "https://github.com/kawaharm/axios-crash#readme"
+}
